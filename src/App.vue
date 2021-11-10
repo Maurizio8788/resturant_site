@@ -1,6 +1,7 @@
 <template>
   <Header />
   <Hero />
+  <router-view></router-view>
   <Footer />
 </template>
 
